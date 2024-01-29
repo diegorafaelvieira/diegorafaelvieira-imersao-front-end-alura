@@ -15,7 +15,7 @@ Repositório contendo a página clone do Spotify que foi desenvolvido durante a 
  - [Spotify Imersão Alura](https://dreamy-fairy-6b7753.netlify.app/)
 
   #### React
- - [Spotify Imersão Alura](imersao-front-end-alura-bod4sjc4h-diegorafaelvieira.vercel.app)
+ - [Spotify Imersão Alura](https://imersao-front-end-alura-bod4sjc4h-diegorafaelvieira.vercel.app/)
 
 
 ## Lembretes
